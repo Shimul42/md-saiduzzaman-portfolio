@@ -154,20 +154,20 @@ export const portfolioData = {
     {
       id: "cert-1",
       title: "UCICS 2026 — Certificate of Participation",
-      issuer: "UCICS 2026 — 2nd Undergraduate Conference on Intelligent Computing and Systems",
+      issuer: "2nd Undergraduate Conference on Intelligent Computing and Systems (UCICS 2026)",
       year: "2026",
       category: "Conference & Academic",
       image: "/certificates/Scan_20260820_182625.jpg",
-      description: "Active participation in conference technical sessions and academic research tracks."
+      description: "Active participation in conference technical sessions and computing tracks at Varendra University."
     },
     {
       id: "cert-2",
       title: "UCICS 2026 — Certificate of Appreciation for Volunteer Contribution",
-      issuer: "UCICS 2026 — Varendra University",
+      issuer: "UCICS 2026 Organizing Committee, Varendra University",
       year: "2026",
       category: "Academic Leadership",
       image: "/certificates/Scan_20260820_182740.jpg",
-      description: "Recognized for organizational, logistical, and technical volunteer support in executing UCICS 2026."
+      description: "Awarded in recognition of outstanding dedication and service as a conference organizing volunteer."
     },
     {
       id: "cert-3",
@@ -175,17 +175,17 @@ export const portfolioData = {
       issuer: "UCICS 2026 — Intelligent Computing and Systems",
       year: "2026",
       category: "Research Contribution",
-      image: "/certificates/Scan_20260820_182656.jpg",
-      description: "Recognized author for accepted clinical machine learning research paper on heart disease prediction."
+      image: "/certificates/photo_2026-08-20_18-43-50.jpg",
+      description: "Recognized author for accepted clinical ML paper on Heart Disease Prediction."
     },
     {
       id: "cert-4",
       title: "UCICS 2025 — Research Author Recognition",
-      issuer: "UCICS 2025 — 1st Undergraduate Conference on Intelligent Computing and Systems",
+      issuer: "1st Undergraduate Conference on Intelligent Computing and Systems (UCICS 2025)",
       year: "2025",
       category: "Research Contribution",
-      image: "/certificates/Scan_20260820_182715.jpg",
-      description: "Recognized author for underwater environmental CNN computer vision research paper."
+      image: "/certificates/photo_2026-08-20_18-43-28.jpg",
+      description: "Recognized author for accepted paper: Advancing Plastic Pollution Detection in Underwater Environments Using CNN Architectures."
     },
     {
       id: "cert-5",
@@ -193,16 +193,16 @@ export const portfolioData = {
       issuer: "Milliox Bangladesh",
       year: "2024",
       category: "Hackathon & Competition",
-      image: "/certificates/Scan_20260820_182727.jpg",
-      description: "Qualified for the competitive national final round solving real-world applied AI engineering challenges."
+      image: "/certificates/Scan_20260820_182753.jpg",
+      description: "Qualified as a competitive national finalist solving complex real-world applied AI engineering challenges."
     },
     {
       id: "cert-6",
       title: "VU Tech Carnival 2024 — Certificate of Achievement",
-      issuer: "VU Tech Carnival 2024 — Varendra University",
+      issuer: "VU Tech Carnival 2024, Varendra University",
       year: "2024",
       category: "Technical Competition",
-      image: "/certificates/Scan_20260820_182753.jpg",
+      image: "/certificates/Scan_20260820_182727.jpg",
       description: "Awarded for exceptional performance in university-wide technical innovation tracks."
     },
     {
@@ -220,8 +220,8 @@ export const portfolioData = {
       issuer: "Varendra University Science Club",
       year: "2024",
       category: "Leadership & AI",
-      image: "/certificates/photo_2026-08-20_18-43-28.jpg",
-      description: "Specialized training on AI ethics, forward-looking technologies, and academic leadership."
+      image: "/certificates/Scan_20260820_182656.jpg",
+      description: "Specialized training seminar on AI ethics, emerging technologies, and academic leadership."
     },
     {
       id: "cert-9",
@@ -229,7 +229,7 @@ export const portfolioData = {
       issuer: "Department of Computer Science & Engineering, Varendra University",
       year: "2023",
       category: "Debate & Communication",
-      image: "/certificates/photo_2026-08-20_18-43-50.jpg",
+      image: "/certificates/Scan_20260820_182715.jpg",
       description: "Technical debate competition critically analyzing ethical implications of generative AI and automation."
     }
   ],
