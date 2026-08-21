@@ -153,12 +153,12 @@ export const portfolioData = {
  certificates: [
     {
       id: "cert-1",
-      title: "UCICS 2026 — Certificate of Participation",
-      issuer: "2nd Undergraduate Conference on Intelligent Computing and Systems (UCICS 2026)",
+      title: "UCICS 2026 — Research Author Recognition",
+      issuer: "UCICS 2026 — 2nd Undergraduate Conference on Intelligent Computing and Systems",
       year: "2026",
-      category: "Conference & Academic",
-      image: "/certificates/Scan_20260820_182625.jpg",
-      description: "Active participation in conference technical sessions and computing tracks at Varendra University."
+      category: "Research Contribution",
+      image: "/certificates/photo_2026-08-20_18-43-50.jpg",
+      description: "Recognized author for accepted clinical machine learning paper on Heart Disease Prediction."
     },
     {
       id: "cert-2",
@@ -171,21 +171,21 @@ export const portfolioData = {
     },
     {
       id: "cert-3",
-      title: "UCICS 2026 — Research Author Recognition",
-      issuer: "UCICS 2026 — Intelligent Computing and Systems",
+      title: "UCICS 2026 — Certificate of Participation",
+      issuer: "UCICS 2026 — Varendra University",
       year: "2026",
-      category: "Research Contribution",
-      image: "/certificates/photo_2026-08-20_18-43-50.jpg",
-      description: "Recognized author for accepted clinical ML paper on Heart Disease Prediction."
+      category: "Conference & Academic",
+      image: "/certificates/Scan_20260820_182625.jpg",
+      description: "Active participation in technical paper sessions and conference academic tracks."
     },
     {
       id: "cert-4",
       title: "UCICS 2025 — Research Author Recognition",
-      issuer: "1st Undergraduate Conference on Intelligent Computing and Systems (UCICS 2025)",
+      issuer: "UCICS 2025 — 1st Undergraduate Conference on Intelligent Computing and Systems",
       year: "2025",
       category: "Research Contribution",
       image: "/certificates/photo_2026-08-20_18-43-28.jpg",
-      description: "Recognized author for accepted paper: Advancing Plastic Pollution Detection in Underwater Environments Using CNN Architectures."
+      description: "Recognized author for accepted underwater plastic pollution detection CNN research paper."
     },
     {
       id: "cert-5",
@@ -207,21 +207,21 @@ export const portfolioData = {
     },
     {
       id: "cert-7",
-      title: "3D Printing Workshop",
-      issuer: "Robotic Society of Varendra University",
-      year: "2024",
-      category: "Workshop & Engineering",
-      image: "/certificates/Scan_20260820_183351.jpg",
-      description: "Hands-on engineering workshop on rapid prototyping, slicing software, and 3D fabrication."
-    },
-    {
-      id: "cert-8",
       title: "AI for NextGen Leaders",
       issuer: "Varendra University Science Club",
       year: "2024",
       category: "Leadership & AI",
       image: "/certificates/Scan_20260820_182656.jpg",
       description: "Specialized training seminar on AI ethics, emerging technologies, and academic leadership."
+    },
+    {
+      id: "cert-8",
+      title: "3D Printing Workshop",
+      issuer: "Robotic Society of Varendra University",
+      year: "2024",
+      category: "Workshop & Engineering",
+      image: "/certificates/Scan_20260820_183351.jpg",
+      description: "Hands-on engineering workshop on rapid prototyping, slicing software, and 3D fabrication."
     },
     {
       id: "cert-9",
